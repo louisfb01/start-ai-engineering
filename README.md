@@ -744,6 +744,7 @@ The social layer where most of the real-time knowledge actually moves.
 * 4️⃣ [Latent Space](https://www.latent.space/) - swyx and Alessio Fanelli. Industry-heavy AI engineering newsletter with interviews.
 * 5️⃣ [Decoding AI](https://www.decodingai.com/) - Paul Iusztin on production machine learning and AI engineering.
 * 5️⃣ [The Neural Maze](https://theneuralmaze.substack.com/) - Miguel Otero Pedrido. Practical production ML and AI systems newsletter for builders tired of hype, with end-to-end projects, agent systems, deployment tradeoffs, and lessons from real ML engineering work.
+* 5️⃣ [Profitable AI Blog](https://blog.tobiaszwingmann.com/) - Tobias Zwingmann. Applied AI frameworks and real-world examples focused on profitable business outcomes, use-case selection, and moving beyond prototypes.
 * 5️⃣ [AI Tidbits](https://www.aitidbits.ai/) - Sahar Mor's technical briefings on new techniques.
 * 6️⃣ [Interconnects](https://www.interconnects.ai/) - Nathan Lambert. Post-training, reasoning models, and RLHF explained with research-grade clarity.
 * 6️⃣ [Import AI](https://importai.substack.com/) - Jack Clark's research-heavy roundup with policy perspective.
