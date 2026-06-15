@@ -139,11 +139,16 @@ Video is still the fastest way to pick up vocabulary and mental models.
 * 3️⃣ [Tech With Tim](https://www.youtube.com/@TechWithTim) - Tim Ruscica. 1.89M subscribers. Beginner-to-intermediate coding and AI projects in Python. Strong for learners who want to build working things (AI games, assistants, chatbots, small ML projects) alongside the theory.
 * 4️⃣ [What's AI](https://www.youtube.com/@WhatsAI) - Practical AI engineering explainers from Louis-François Bouchard. Useful for RAG, agents, MCP, evals, and learning how to reason about the stack instead of only chasing tools.
 * 4️⃣ [Hugging Face](https://www.youtube.com/@HuggingFace) - Official tutorials across the open-source AI ecosystem. Covers fine-tuning, inference, datasets, and new model releases.
+* 4️⃣ [Prompt Engineering](https://www.youtube.com/@engineerprompt) - Practical prompt engineering and AI/ML tutorials from a Google Developer Expert. Useful for turning prompting concepts into repeatable workflows for LLM apps.
 * 5️⃣ [LangChain](https://www.youtube.com/@LangChain) - Official channel for LangChain and LangGraph. Tutorial-first videos on agents, workflows, and graph-based orchestration.
+* 5️⃣ [Ray Amjad](https://www.youtube.com/@RAmjad) - Videos on agentic engineering and building with AI systems. Useful once you are ready to move from prompting into tool-using applications and coding-agent workflows.
+* 5️⃣ [AI Engineer](https://www.youtube.com/@aiDotEngineer) - Talks, workshops, events, and training for AI engineers. Good for seeing what practitioners are actually building and debating.
 * 5️⃣ [Jeremy Howard](https://www.youtube.com/@howardjeremyp) - fast.ai co-founder. Practical, builder-oriented, strong on software craft and AI-assisted coding.
 * 5️⃣ [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) - Károly Zsolnai-Fehér. Short, enthusiastic summaries of AI research papers. Good for staying aware of what is being published without reading every paper.
 * 5️⃣ [Bycloud](https://www.youtube.com/@bycloudAI) - Weekly video essays on AI news and research, aimed at builders.
+* 5️⃣ [Shaw Talebi](https://www.youtube.com/@ShawhinTalebi) - Practical AI and data science tutorials from a researcher-turned-data-scientist-turned-entrepreneur. Strong for code-first ML, LLM, and portfolio-building lessons.
 * 6️⃣ [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) - Former Tesla AI and OpenAI. Best long-form explanations of how LLMs actually work — essential mental models for anyone building on top of them.
+* 6️⃣ [Sam Witteveen](https://www.youtube.com/@samwitteveenai) - Deep learning, transformers, and LLM tutorials from a long-time practitioner and Google Developer Expert. Good for keeping up with applied GenAI tooling and model workflows.
 * 7️⃣ [Umar Jamil](https://www.youtube.com/@umarjamilai) - Line-by-line implementations of transformers, vision-language models, and LoRA. Strong for understanding what is happening inside a model when you are debugging or fine-tuning.
 * 8️⃣ [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - In-depth walkthroughs of new research papers. Essential for staying current with model releases and understanding what papers actually claim vs. what they prove.
 
@@ -756,7 +761,9 @@ The social layer where most of the real-time knowledge actually moves.
 * 3️⃣ [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Occasional AI episodes with researchers and founders.
 * 4️⃣ [The What's AI Podcast](https://www.louisbouchard.ai/podcast/) - Louis-François Bouchard. Interviews with AI builders and researchers.
 * 4️⃣ [Latent Space](https://www.latent.space/podcast) - swyx and Alessio Fanelli. Deep interviews with practitioners shipping real systems.
+* 4️⃣ [No Priors](https://open.spotify.com/show/0O65xhqvGVhpgdIrrdlEYk) - Sarah Guo and Elad Gil. Conversations with AI engineers, researchers, founders, and investors on AGI, research frontiers, startups, and how AI changes markets and society.
 * 4️⃣ [ThursdAI](https://thursdai.news/) - Alex Volkov's weekly live show, podcast, and newsletter breaking down major AI news with builders. Strong for model releases, open-source AI, tooling, and practical context on what changed this week.
+* 5️⃣ [Dwarkesh Podcast](https://www.youtube.com/@DwarkeshPatel) - Dwarkesh Patel. Deeply researched long-form interviews with AI researchers, lab leaders, founders, and other high-signal thinkers. Good for serious context on frontier AI and the people building it.
 * 5️⃣ [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) - Tim Scarfe. Long-form research conversations.
 
 ### Practitioner blogs worth bookmarking
