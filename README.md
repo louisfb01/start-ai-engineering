@@ -22,7 +22,7 @@ Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](
 
 ### Want to know what this guide is about? Start with this video:
 
-[<img src="assets/ai-engineering-foundations.webp" width="512"/>](https://youtu.be/ljOwBCdiHmg)
+[<img src="assets/ai-engineering-foundations.webp" width="512"/>](https://youtu.be/8spm9E2RsXI)
 
 Watch [AI Engineering Foundations: What Developers Actually Need to Know Today](https://youtu.be/ljOwBCdiHmg) first, then [subscribe to What's AI](https://www.youtube.com/c/WhatsAI?sub_confirmation=1) for more AI engineering videos.
 
