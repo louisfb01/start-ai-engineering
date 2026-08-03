@@ -22,9 +22,9 @@ Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](
 
 ### Want to know what this guide is about? Start with this video:
 
-[<img src="assets/ai-engineering-foundations.webp" width="512"/>](https://youtu.be/8spm9E2RsXI)
+[<img src="assets/how-id-learn-ai-engineering-2026.png" width="512" alt="Learn AI Engineering for Free, 2026 Roadmap"/>](https://youtu.be/8spm9E2RsXI)
 
-Watch [AI Engineering Foundations: What Developers Actually Need to Know Today](https://youtu.be/ljOwBCdiHmg) first, then [subscribe to What's AI](https://www.youtube.com/c/WhatsAI?sub_confirmation=1) for more AI engineering videos.
+Watch [How I'd Learn AI Engineering in 2026](https://youtu.be/8spm9E2RsXI), then [subscribe to What's AI](https://www.youtube.com/c/WhatsAI?sub_confirmation=1) for more AI engineering videos.
 
 *This guide is updated throughout 2026 as the stack moves.*
 
