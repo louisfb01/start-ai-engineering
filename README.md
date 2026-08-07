@@ -765,6 +765,7 @@ The social layer where most of the real-time knowledge actually moves.
 * 4️⃣ [ThursdAI](https://thursdai.news/) - Alex Volkov's weekly live show, podcast, and newsletter breaking down major AI news with builders. Strong for model releases, open-source AI, tooling, and practical context on what changed this week.
 * 5️⃣ [Dwarkesh Podcast](https://www.youtube.com/@DwarkeshPatel) - Dwarkesh Patel. Deeply researched long-form interviews with AI researchers, lab leaders, founders, and other high-signal thinkers. Good for serious context on frontier AI and the people building it.
 * 5️⃣ [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) - Tim Scarfe. Long-form research conversations.
+* 5️⃣ [Chain of Thought](https://chainofthought.show/) - Conor Bronsdon. Interviews with engineers and founders building AI infrastructure and developer tools. Useful for inference, evals, agent infrastructure, and what teams actually run in production.
 
 ### Practitioner blogs worth bookmarking
 
