@@ -619,6 +619,7 @@ Application Programming Interface (API) deployment, containers, concurrency, Ope
 Most production stacks sit one layer above the provider to handle fallbacks, rate limits, cost tracking, and per-request model selection:
 
 * 5️⃣ [LiteLLM](https://docs.litellm.ai/) - Open-source proxy and Python SDK that lets you call 100+ LLM providers through a unified OpenAI-compatible interface. De facto standard for multi-provider applications.
+* 5️⃣ [Bifrost](https://github.com/maximhq/bifrost) - High-performance Go gateway that unifies 23+ providers behind an OpenAI-compatible API, with automatic failover, load balancing, semantic caching, and native observability.
 * 5️⃣ [OpenRouter](https://openrouter.ai/docs) - Hosted router with a single API across hundreds of models, including preview access to models before they hit official APIs.
 * 5️⃣ [Portkey](https://portkey.ai/docs) - AI gateway with caching, observability, and guardrails built on top of the routing layer.
 
