@@ -754,6 +754,7 @@ The social layer where most of the real-time knowledge actually moves.
 * 6️⃣ [Interconnects](https://www.interconnects.ai/) - Nathan Lambert. Post-training, reasoning models, and RLHF explained with research-grade clarity.
 * 6️⃣ [Import AI](https://importai.substack.com/) - Jack Clark's research-heavy roundup with policy perspective.
 * 6️⃣ [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's monthly deep dives.
+* 4️⃣ [AI Weekly](https://aiweekly.co/) - Ranks and explains what influential AI experts and organizations are reading and sharing across models, agents, funding, policy, and research.
 
 ### Podcasts
 
